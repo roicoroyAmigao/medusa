@@ -1,8 +1,6 @@
 {
-  "name": "medusa-js",
-  "version": "1.0.0",
-  "description": "",
-  "private": true,
+  "name": "root",
+  "private": false,
   "workspaces": {
     "packages": [
       "packages/*"
